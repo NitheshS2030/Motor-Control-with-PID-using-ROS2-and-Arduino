@@ -51,7 +51,7 @@ source install/setup.bash
 ### 2. Clone and Set Up the Repository
 ```bash
 cd ~/buggy_ws/src
-git clone <https://github.com/NitheshS2030/Motor-Control-with-PID-using-ROS2-and-Arduino.git>
+git clone https://github.com/NitheshS2030/Motor-Control-with-PID-using-ROS2-and-Arduino.git
 cd ~/buggy_ws
 colcon build --symlink-install
 source install/setup.bash
